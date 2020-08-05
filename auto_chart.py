@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/12/3 22:51
 # @Author  : dashenN72
+"""
+demo for chat test
+"""
 
 from pyecharts import Bar
 from pyecharts import Line
